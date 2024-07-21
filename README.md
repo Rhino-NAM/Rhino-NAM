@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rhino-NAM
-- 👀 I’m interested in space, rockets and physics
-- 🌱 I’m currently learning gcse's
+- 👀 I’m interested in the universe, chess and designing. 
+- 🌱 I’m currently learning GED.
 - 💞️ I’m looking to collaborate on (not sure)
 - 📫 How to reach me (I'm nothing special yet so I'm going to leave this blank for now)
 
