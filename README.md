@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Rhino-NAM
-- 👀 I’m interested in the universe, chess and designing. 
-- 🌱 I’m currently learning GED.
-- 💞️ I’m looking to collaborate on (not sure)
-- 📫 How to reach me (I'm nothing special yet so I'm going to leave this blank for now)
+
+Nice to meet you, I'm going to be tracking my progress in python and hopefully robotics soon
+- 👀 I’m interested in the universe, chess and engineering, STEM fan :)
 
 <!---
 Rhino-NAM/Rhino-NAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+----
